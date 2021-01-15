@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "박현황"
-  avatar           : "/assets/images/profile/programmer.png" # 프로필 이미지
+  avatar           : "./me.jpg" # 프로필 이미지
   bio              : "잘 몰라용. <br> 잘못된 곳이 있다면 알려주시면 감사하겠습니다.."
   location         : "Republic of Korea"
   email            : "iiilll_iill@naver.com"
